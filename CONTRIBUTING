@@ -1,0 +1,21 @@
+# Contributing to IP Overlap Checker
+
+Contributions are welcome! If you'd like to propose improvements or report an issue, please follow these guidelines:
+
+## How to Contribute
+
+- Fork the repository and make your changes.
+- Submit a Pull Request (PR) to the main repository.
+- Briefly describe the purpose of your changes in the PR.
+
+Alternatively:
+
+- Open an Issue in GitHub to discuss your ideas first.
+
+## Contribution Guidelines
+
+- Use clear and descriptive commit messages.
+- Follow the existing code style.
+- Ensure your code is tested and functional.
+
+Thank you for contributing!
